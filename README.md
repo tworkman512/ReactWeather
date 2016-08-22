@@ -1,4 +1,4 @@
-# ReactJS Weather Applicaion
+# ReactJS Weather Application
 A simple weather application built with ReactJS.
 
 ## Getting Started
